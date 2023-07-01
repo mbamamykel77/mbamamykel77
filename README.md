@@ -45,3 +45,5 @@ SOFTWARE ENGINEER INTERN
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mbamamykel77&theme=neon-dark&border_radius=15)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbamamykel77&show_icons=true&theme=synthwave)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbamamykel77&layout=pie)](https://github.com/mbamamykel77/github-readme-stats)
