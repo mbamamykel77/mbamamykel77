@@ -32,10 +32,14 @@ SOFTWARE ENGINEER INTERN
 **September 2022 - July 2023**
 
 - Developed REST APIs, including validation, user authentication, CRUD operation and implemented payment gateway by leveraging the knowledge of JavaScript, NodeJS, ExpressJS, MongoDB, Git, Postman.
-- Completed the development of web applications with Html, CSS andJavaScript.
+- Completed the development of web applications with Html, CSS and JavaScript.
 - Unit tested all code using jest.
 
 
 ## 📫 How to reach me:
 **Email: mbamamykel@gmail.com**
 
+
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mbamamykel77&theme=neon-dark&border_radius=15)](https://git.io/streak-stats)
